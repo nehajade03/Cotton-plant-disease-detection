@@ -1,2 +1,2 @@
 # Cotton-plant-disease-detection
-detection of cotton leaf disease 
+ I developed a prediction model on detection of cotton leaf disease 
